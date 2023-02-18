@@ -1,0 +1,13 @@
+def display(name,age,salary):
+    print("Name : ",name)
+    print("Age : ",age)
+    print("Salary : ",salary)
+name = "Aadi"
+age = 35
+salary = 125643
+display(salary,age,name)
+
+output:-
+Name :  125643
+Age :  35
+Salary :  Aadi
